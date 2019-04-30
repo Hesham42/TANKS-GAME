@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{EBCA6912-E710-D65C-A5BE-BEF77E3D0488}</ProjectGuid>
+    <ProjectGuid>{338B3AD0-53C9-355C-E0CA-CB38A96A95FB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,20 +58,21 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\PlayerScript.cs" />
+     <Compile Include="Assets\Script\ShellScript.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/home/hesham/DemoEhab/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/home/hesham/TANKS-GAME/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>/home/hesham/DemoEhab/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>/home/hesham/TANKS-GAME/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>/home/hesham/DemoEhab/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>/home/hesham/TANKS-GAME/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/home/hesham/DemoEhab/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/home/hesham/TANKS-GAME/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>/home/hesham/DemoEhab/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>/home/hesham/TANKS-GAME/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/home/hesham/Unity/Hub/Editor/2018.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -278,13 +279,13 @@
  <HintPath>/home/hesham/Unity/Hub/Editor/2018.3.6f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>/home/hesham/DemoEhab/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>/home/hesham/TANKS-GAME/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>/home/hesham/DemoEhab/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>/home/hesham/TANKS-GAME/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>/home/hesham/DemoEhab/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>/home/hesham/TANKS-GAME/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>/home/hesham/Unity/Hub/Editor/2018.3.6f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
